@@ -1,0 +1,9 @@
+
+--------------------------------------------------
+Audit ID   : AUD-305C6B482D
+Timestamp  : 2026-01-08 15:23:25
+Name       : paras
+Status     : FAIL
+Flags      : ['invalid']
+Warnings   : [' abnormal systolic BP']
+Disclaimer : Non-diagnostic clinical audit

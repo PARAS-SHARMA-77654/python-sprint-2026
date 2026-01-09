@@ -1,1 +1,90 @@
 
+# 🪨📄✂️ Rock Paper Scissors – Python Winter Sprint 2026
+
+A Python-based **Rock–Paper–Scissors (RPS) Engine** built as part of the **Python Winter Sprint 2026** by **Coding Council**.  
+This project focuses on strengthening Python fundamentals through **conditionals, loops, and Object-Oriented Programming (OOP)**.
+
+---
+
+## 🎯 Objective
+
+Build a command-line Rock–Paper–Scissors game where:
+- The user selects a move
+- The computer selects a move
+- The winner is decided using game rules
+- Scores are tracked across rounds
+
+---
+
+## 🧠 Tracks Overview
+
+### 🔰 Foundation Track (Beginners)
+**Core Topic:** Conditional Expressions  
+- User inputs a move (`rock`, `paper`, `scissors`)
+- Computer move is predefined or random
+- Result is decided using `if / elif / else`
+
+---
+
+### ⚙️ Core Track (OOP Based)
+**Core Topic:** Object-Oriented Programming  
+
+Features:
+- `RPSGame` class
+- Player name & score tracking
+- Multiple rounds
+- Final score display
+
+---
+
+### 🚀 Project Track (Advanced – Mini Project)
+A complete **CLI-based RPS Engine** with:
+
+- User authentication (login/register)
+- Persistent user profiles
+- Match-based gameplay
+- File-backed storage (`users.json`)
+- Modular OOP design
+
+---
+
+## 🧩 Project Features
+
+- ✅ Register & Login system
+- 🎮 Rock–Paper–Scissors game engine
+- 📊 Persistent player statistics
+- 🔁 Multi-round matches
+- 💾 File-based data storage
+- 🧱 Clean OOP architecture
+
+---
+
+## 🏗️ Class Design
+
+### 👤 `User` Class
+Handles:
+- Username & password
+- Wins, losses, draws
+- Loading & saving user data
+
+---
+
+### 🎮 `RPSEngine` Class
+Handles:
+- Valid moves
+- Computer move generation
+- Rule-based result calculation
+
+---
+
+### 🔁 `GameSession` Class
+Handles:
+- Number of rounds
+- Match flow
+- Score tracking
+- Updating user statistics
+
+---
+
+## 📁 File Structure
+

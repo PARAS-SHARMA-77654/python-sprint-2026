@@ -1,1 +1,72 @@
 
+🏦 Banking System – Python Winter Sprint 2026
+
+A simple CLI-based Banking System built using Python, focusing on functions, recursion, and file handling.
+This project is part of Python Winter Sprint 2026 (Foundation Track) by Coding Council.
+
+📌 Problem Overview
+
+This program simulates a basic banking system where a user can:
+
+Create a bank account
+
+Deposit money
+
+Withdraw money
+
+Exit and view final account details
+
+All account data is stored using file handling, and the menu runs using recursion instead of loops.
+
+🧠 Concepts Used
+
+Python Functions
+
+Recursion
+
+File Handling (read / write)
+
+Basic Input & Output
+
+Simple Logic (Beginner Friendly)
+
+📂 Files Used
+
+bank.txt → Stores account holder name and balance
+
+⚙️ How the Program Works
+
+Program starts
+
+User enters:
+
+Account holder name
+
+Initial balance
+
+Details are saved to bank.txt
+
+Recursive menu appears:
+
+Deposit money
+
+Withdraw money
+
+Exit
+
+After exit:
+
+File is read
+
+Final account summary is displayed
+
+
+
+
+📚 Learning Outcome
+
+Understand how recursion can replace loops
+
+Learn basic file-based data storage
+
+Build confidence in writing real-world Python programs
